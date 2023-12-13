@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+    <record>
+        <sln>1</sln>
+        <prodcode>P001</prodcode>
+        <prodname>Atta - 1kg</prodname>
+        <price>270</price>
+        <vat>3</vat>
+    </record>
+    <record>
+        <sln>2</sln>
+        <prodcode>P002</prodcode>
+        <prodname>Basmati rice - 1kg</prodname>
+        <price>96</price>
+        <vat>1</vat>
+    </record>
+    <record>
+        <sln>3</sln>
+        <prodcode>P003</prodcode>
+        <prodname>Daawat Brown rice - 1kg</prodname>
+        <price>150</price>
+         <vat>2</vat>
+    </record>
+    <record>
+        <sln>4</sln>
+        <prodcode>P004</prodcode>
+        <prodname>Soya Beans - 1kg</prodname>
+        <price>135</price>
+         <vat>2</vat>
+    </record>
+    <record>
+        <sln>5</sln>
+        <prodcode>P005</prodcode>
+        <prodname>Bansi Sooji - 1kg</prodname>
+        <price>32</price>
+         <vat>1</vat>
+    </record>
+    <record>
+        <sln>6</sln>
+        <prodcode>P006</prodcode>
+        <prodname>Dabur Honey - 1kg</prodname>
+        <price>400</price>
+         <vat>5</vat>
+    </record>
+    <record>
+        <sln>7</sln>
+        <prodcode>P007</prodcode>
+        <prodname>BRU - 500 g</prodname>
+        <price>250</price>
+         <vat>3</vat>
+    </record>
+    <record>
+        <sln>8</sln>
+        <prodcode>P008</prodcode>
+        <prodname>Mysore Sandal 450g(pack of 3)</prodname>
+        <price>232</price>
+         <vat>3</vat>
+    </record>
+    <record>
+        <sln>9</sln>
+        <prodcode>P009</prodcode>
+        <prodname>Doodh Peda - 200g</prodname>
+        <price>114</price>
+         <vat>2</vat>
+    </record>
+
+    <record>
+        <sln>10</sln>
+        <prodcode>P010</prodcode>
+        <prodname>Kaju Katri - 200g</prodname>
+        <price>190</price>
+         <vat>2</vat>
+    </record>
+    <record>
+        <sln>11</sln>
+        <prodcode>P011</prodcode>
+        <prodname>Fresh Sapota - 500g</prodname>
+        <price>52</price>
+         <vat>1</vat>
+    </record>
+    <record>
+        <sln>12</sln>
+        <prodcode>P012</prodcode>
+        <prodname>Halwa Bits - 200g</prodname>
+        <price>80</price>
+         <vat>1</vat>
+    </record>
+    <record>
+        <sln>13</sln>
+        <prodcode>P013</prodcode>
+        <prodname>Cadbury Chocolate-59.8g</prodname>
+        <price>45</price>
+         <vat>1</vat>
+    </record>
+    <record>
+        <sln>14</sln>
+        <prodcode>P014</prodcode>
+        <prodname>Shave Foam - 418g</prodname>
+        <price>211</price>
+         <vat>3</vat>
+    </record><record>
+        <sln>15</sln>
+        <prodcode>P015</prodcode>
+        <prodname>Venus Razor</prodname>
+        <price>75</price>
+         <vat>1</vat>
+    </record>
+    <record>
+        <sln>16</sln>
+        <prodcode>P016</prodcode>
+        <prodname>Colgate - 500g</prodname>
+        <price>220</price>
+         <vat>3</vat>
+    </record>
+    <record>
+        <sln>17</sln>
+        <prodcode>P017</prodcode>
+        <prodname>Dettol</prodname>
+        <price>165</price>
+         <vat>2</vat>
+    </record>
+    <record>
+        <sln>18</sln>
+        <prodcode>P018</prodcode>
+        <prodname>Pears Pure - 450ml</prodname>
+        <price>101</price>
+         <vat>2</vat>
+    </record>
+    <record>
+        <sln>19</sln>
+        <prodcode>P019</prodcode>
+        <prodname>Safari Suitcase Trolleys 55cms</prodname>
+        <price>1699</price>
+         <vat>10</vat>
+    </record>
+    <record>
+        <sln>20</sln>
+        <prodcode>P020</prodcode>
+        <prodname>Bata Mens Shoe</prodname>
+        <price>550</price>
+         <vat>6</vat>
+    </record>
+    <record>
+        <sln>21</sln>
+        <prodcode>P021</prodcode>
+        <prodname>Onion - 500g</prodname>
+        <price>28</price>
+        <vat>1</vat>
+    </record>
+    <record>
+        <sln>22</sln>
+        <prodcode>P022</prodcode>
+        <prodname>Coconut 1 unit</prodname>
+        <price>23</price>
+        <vat>1</vat>
+    </record>
+    <record>
+        <sln>23</sln>
+        <prodcode>P023</prodcode>
+        <prodname>Potato Agra 1kg</prodname>
+        <price>30</price>
+         <vat>1</vat>
+    </record>
+    <record>
+        <sln>24</sln>
+        <prodcode>P024</prodcode>
+        <prodname>Garlic 250g</prodname>
+        <price>70</price>
+         <vat>1</vat>
+    </record>
+    <record>
+        <sln>25</sln>
+        <prodcode>P025</prodcode>
+        <prodname>Mushroom Button 200g</prodname>
+        <price>39</price>
+         <vat>1</vat>
+    </record>
+    <record>
+        <sln>26</sln>
+        <prodcode>P026</prodcode>
+        <prodname>Tomato 1kg</prodname>
+        <price>34</price>
+         <vat>1</vat>
+    </record>
+    <record>
+        <sln>27</sln>
+        <prodcode>P027</prodcode>
+        <prodname>Banana Robusta 500g</prodname>
+        <price>19</price>
+         <vat>1</vat>
+    </record>
+    <record>
+        <sln>28</sln>
+        <prodcode>P028</prodcode>
+        <prodname>Cucumber Local 500g</prodname>
+        <price>15</price>
+         <vat>1</vat>
+    </record>
+    <record>
+        <sln>29</sln>
+        <prodcode>P029</prodcode>
+        <prodname>Ginger 250g</prodname>
+        <price>30</price>
+         <vat>1</vat>
+    </record>
+    <record>
+        <sln>30</sln>
+        <prodcode>P030</prodcode>
+        <prodname>Broccoli 1 Unit</prodname>
+        <price>28</price>
+         <vat>1</vat>
+    </record>
+</records>
