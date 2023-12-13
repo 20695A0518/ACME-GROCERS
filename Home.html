@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+    <head>
+    <title>ACME GROCERS CART </title>
+    <link rel="stylesheet" type="text/css" href="Home.css">
+    <script src="Login.js"></script>
+    <script src="BillGen.js"></script>
+    <script src="home.js"></script>
+    </style>
+    </head>
+    <body onload="init()">
+        <div id="main">
+            <div id="dhead">
+                <b><p align="center" style="font-size: 30;"> ACME GROCERS</p></b> 
+                <P align="center" style="font-size: 18;"> Add the Products to Cart </P>
+            </div>
+            <div id="dbody">
+                <center>
+                    <span id="errmess">.</span> 
+                    <span id="proderr">.</span> 
+                    <br>
+                    <table id="table1" style="padding: 3; word-spacing:normal;" ></table>
+                    <br>
+                    <br>
+                </center>
+                <div style="margin-left: 14%;margin-right: 14%;">
+                    <tt><b><label for="IPC">Enter PC</label></b></tt>
+                    <input type="text" id="IPC" name="IPC" minlength="4" maxlength="4"  placeholder="Product Code" value="P0"><br>
+                    <tt><b><label for="Quant"> Quantity</label></b></tt>
+                    <input type="number" id="Quant" name="Quant" min="1"  minlength="1"  placeholder="Quantity"><br><br>
+                    <center>
+                        <input type="button" id="addP" name="addP" onclick="addProduct()" value="Add Product">&nbsp;&nbsp;&nbsp;
+                        <input type="button" id="gen" name="gen" onclick="billGen()" value="Generate bill" >
+                    </center>
+                </div>
+                <br><br>
+            </div>
+            <div id="dfoot">
+                
+                <center>
+                    <input type="button" id="clear" name="clear" onclick="clear1()" style="background-color: rgb(194, 160, 9);color: azure;" value="Clear">&nbsp;&nbsp;&nbsp;
+                    <input type="button" value="close" id="close" name="close" onclick=" close1()" style="background-color: rgb(253, 0, 0);color: azure;"></center>
+                <center><tt>&copy; All Right are Reserved</tt> </center>
+                
+            </div>
+        </div>
+    </body>
+</html>

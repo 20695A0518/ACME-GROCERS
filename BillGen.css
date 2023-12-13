@@ -1,0 +1,41 @@
+body{
+    background-color: aquamarine;
+}
+#dhead{
+    background-color: rgb(215, 226, 112);
+}
+#dbody{
+    background-color: #cef4c3;
+}
+#dfoot{
+    background-color: #cef4c3;
+}
+td.sp{
+    width: 625px !important;
+}
+td, th {
+    text-align: left;
+    width: 70px !important;
+    padding-bottom: 10px;
+}
+#table2{
+    width: 450px !important;
+}
+p {
+    color:#362807;
+}
+b {
+    color: blue;
+}
+div#dfoot {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+div#dbody {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+div#dhead {
+    margin-left: 20%;
+    margin-right: 20%;
+}

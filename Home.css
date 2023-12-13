@@ -1,0 +1,49 @@
+body{
+    background-color: aquamarine;
+}
+#dhead{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgb(215, 226, 112);
+}
+#dbody{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: #cef4c3;
+}
+#dfoot{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: #cef4c3;
+    
+}
+#errmess{
+    color: rgb(239, 3, 3);
+    font-size: medium;
+    font-style:normal;
+    font-family: sans-serif;
+}
+#gen{
+    color: rgb(164, 216, 234);
+    font-size: medium;
+    background-color: rgb(16, 160, 11);
+}
+#addP{
+    color: rgb(164, 216, 234);
+    font-size: medium;
+    background-color: rgb(16, 160, 11);
+}
+td, th {
+    text-align: left;
+    width: 70px !important;
+    padding-bottom: 10px;
+}
+th.productNmae {
+    width: 120px !important;
+}
+#proderr{
+    color: rgb(239, 3, 3);
+    font-size: medium;
+    font-style:normal;
+    font-family: sans-serif;
+}
