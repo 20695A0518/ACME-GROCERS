@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <Title>ACME GROCERS</Title>
+    <link rel="stylesheet" type="text/css" href="Login.css">
+    <script src="Login.js"></script>
+    </head>
+    <body onload="init()">
+        <div id="main">
+            <div id="dhead">
+               <b><p align="center" style="font-size: 30;"> ACME GROCERS</p></b> 
+                <P align="center" style="font-size: 18;">Employee Authentication  </P>
+            </div>
+            <div id="dbody">
+                <form id="form1" align="center">
+                    <br><br>
+                    <label for="username">Username</label>
+                    <input type="text" id="username" name="username" placeholder="Username">
+                    <br>
+                    <label for="userpass">Password</label>&nbsp;
+                    <input type="password" id="userpass" name="userpass"  placeholder="Password">
+                    <br><br><br>
+                    <input type="button" id="Login" name="Login" onclick="Checklogin()" value="Login" >
+                    <br><br><br><br><br><br><br><br>
+                </form>
+            </div>
+            <div id="dfoot">
+                <center><tt>&copy; All Right are Reserved</tt> </center>
+            </div>
+
+        </div>
+    </body>
+</html>
